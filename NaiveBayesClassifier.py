@@ -1,4 +1,5 @@
 import re
+import numpy
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import naive_bayes
 
