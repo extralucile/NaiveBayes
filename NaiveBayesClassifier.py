@@ -1,3 +1,5 @@
+//программа, которая определяет метки для статей
+
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import naive_bayes
